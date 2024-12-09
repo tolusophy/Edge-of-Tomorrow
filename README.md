@@ -1,4 +1,4 @@
-# Edge-of-Tomorrow
+# On the Reliability of Large Language Models to Misinformed and Demographically-Informed Prompts
 [Paper](https://arxiv.org/abs/2410.10850)
 
 ## Overview
